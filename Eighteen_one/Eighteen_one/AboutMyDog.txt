@@ -1,0 +1,4 @@
+Name:Leo;
+Breed:Bulldog;
+Age:15;
+Calm, courageous, and friendly. Known for their wrinkled face and distinctive pushed-in nose.

@@ -1,0 +1,4 @@
+Name:Cat;
+Breed:Scottish ;
+Age:4;
+Known for their unique folded ears. They are gentle, affectionate, and get along well with children and other pets.

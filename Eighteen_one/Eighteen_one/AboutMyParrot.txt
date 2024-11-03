@@ -1,0 +1,4 @@
+Name:Parrot;
+Breed:Conure ;
+Age:4;
+Medium-sized with a variety of colors. They are playful, social, and can be loud and active.
